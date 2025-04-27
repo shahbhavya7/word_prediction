@@ -64,5 +64,15 @@ This project implements a **Next Word Prediction** system using a **Long Short-T
 
 ---
 
+## ✨ Future Improvements
+
+- Implement beam search decoding for richer prediction outputs
+- Extend to multi-word predictions (n-gram completion)
+- Fine-tune the model on larger or modern English datasets
+
+---
+
+## 🤝 Contributing
+Contributions are welcome! Please open issues and pull requests for improvements or feature requests.
 
 
